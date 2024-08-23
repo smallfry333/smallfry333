@@ -7,8 +7,8 @@
 Small Fry - Personal Webpage 
 </head>
 <body>
-<h1>Welcome to My Personal Webpage</h1>
-<p>Hi my name is Jonathan but people do call me small fry. I want to give a few facts about myself.</p>
+<h1> Welcome to My Personal Webpage </h1>
+<p> Hi my name is Jonathan but people do call me Small Fry. I want to give a few facts about myself.</p>
 <p> I worked as a camp counselor and this year I got promoted to a supervisor.</p>
 <p> I like playing basketball and video games and learn different things about coding on my free time.</p>
 <p> My goal is to become a video game designer and improve myself on different coding languages</p>
